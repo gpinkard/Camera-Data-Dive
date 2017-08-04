@@ -1,0 +1,3 @@
+U:\CameraData\
+U:\InstrumentData\
+C:\temp\Hercules_21cmFov_Centricity.bin

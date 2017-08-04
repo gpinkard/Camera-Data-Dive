@@ -1,0 +1,3 @@
+C:\XML Data\CameraDataOriginal\
+C:\XML Data\InstrumentData\
+C:\Temp\BFCTest.bin
