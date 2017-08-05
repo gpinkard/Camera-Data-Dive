@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
+using System.Diagnostics;
 using System.Drawing;
 using System.IO;
 using System.Linq;
@@ -1535,6 +1536,15 @@ namespace CameraDataDive
         private void MainScreen_FormClosing(object sender, FormClosingEventArgs e)
         {
             setLastSessionBaseFolderPaths();
+        }
+
+        /*
+         * Opens the help text with whatever text editing application the user has set to default.
+         */
+        private void helpToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            string fileName = AppDomain.CurrentDomain.BaseDirectory + "README.txt";
+            Process.Start(fileName);
         }
     }
 }
