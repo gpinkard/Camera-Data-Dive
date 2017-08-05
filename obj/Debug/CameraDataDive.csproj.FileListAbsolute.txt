@@ -20,3 +20,14 @@ C:\CameraDataDive_Backup\8-3-2017_3-59-PM\CameraDataDive\obj\Debug\CameraDataDiv
 C:\CameraDataDive_Backup\8-3-2017_3-59-PM\CameraDataDive\obj\Debug\CameraDataDive.csproj.GenerateResource.Cache
 C:\CameraDataDive_Backup\8-3-2017_3-59-PM\CameraDataDive\obj\Debug\CameraDataDive.exe
 C:\CameraDataDive_Backup\8-3-2017_3-59-PM\CameraDataDive\obj\Debug\CameraDataDive.pdb
+C:\CameraDataDive_Github\Camera-Data-Dive\bin\Debug\CameraDataDive.exe.config
+C:\CameraDataDive_Github\Camera-Data-Dive\bin\Debug\CameraDataDive.exe
+C:\CameraDataDive_Github\Camera-Data-Dive\bin\Debug\CameraDataDive.pdb
+C:\CameraDataDive_Github\Camera-Data-Dive\obj\Debug\CameraDataDive.csprojResolveAssemblyReference.cache
+C:\CameraDataDive_Github\Camera-Data-Dive\obj\Debug\CameraDataDive.ColPropertiesDialog.resources
+C:\CameraDataDive_Github\Camera-Data-Dive\obj\Debug\CameraDataDive.GenerateFolderListDialog.resources
+C:\CameraDataDive_Github\Camera-Data-Dive\obj\Debug\CameraDataDive.MainScreen.resources
+C:\CameraDataDive_Github\Camera-Data-Dive\obj\Debug\CameraDataDive.Properties.Resources.resources
+C:\CameraDataDive_Github\Camera-Data-Dive\obj\Debug\CameraDataDive.csproj.GenerateResource.Cache
+C:\CameraDataDive_Github\Camera-Data-Dive\obj\Debug\CameraDataDive.exe
+C:\CameraDataDive_Github\Camera-Data-Dive\obj\Debug\CameraDataDive.pdb
