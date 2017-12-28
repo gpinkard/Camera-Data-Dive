@@ -1,6 +1,8 @@
 
 ###### OVERVIEW ######
 
+![Screenshot](images/session.JPG)
+
 XMLExt is a tool that allows the user to specify an XML element in a camera
 or instrument test folder, and generate a CSV file of the bindings of that XML
 element over a range of folders. For instance, if a user wanted to see all of 
@@ -98,6 +100,8 @@ in the large panel to the right of the buttons.
 When you click on the Add New Column button a new dialog will appear. This dialog has 
 three distinct sections: Data Type Selection, XML Data Item Selection, and Data Collection
 Options.
+
+![Screenshot](images/colProp.JPG)
 	
 	1. Data Type Selection
 		Like its name suggests, this section allows the user to specify what kind of data
